@@ -6,3 +6,5 @@ The iOS app must have:
 2. Use a microservice architecture for the back-end to fetch the adventure posts and the gear guide. No need to load the images from the back-end.
 
 Post the resulting code in your Github repo.
+
+Download Adobe XD from: https://www.adobe.com/products/xd.html
